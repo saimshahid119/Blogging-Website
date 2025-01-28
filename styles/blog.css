@@ -1,0 +1,55 @@
+/* Blogs Page Styling */
+.blogs-list {
+  margin-top: 40px;
+}
+
+.blogs-list h2 {
+  font-size: 2.5em;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.post {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post h3 {
+  font-size: 1.8em;
+  color: #333;
+}
+
+.post a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.post a:hover {
+  text-decoration: underline;
+}
+
+.post-meta {
+  font-size: 0.9em;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.post-summary {
+  font-size: 1em;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.read-more {
+  font-size: 1.1em;
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
